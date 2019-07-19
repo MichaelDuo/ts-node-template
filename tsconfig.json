@@ -6,7 +6,7 @@
         "sourceMap": true,
         "allowJs": true,
         "allowSyntheticDefaultImports": true,
-        "lib": ["es2017"],
+        "lib": ["es6"],
         "moduleResolution": "node",
         "esModuleInterop": true,
         "noImplicitAny": true,
